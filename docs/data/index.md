@@ -58,3 +58,4 @@ Get started with Amplitude Data in a few steps.
 
 - *Help Center*: [Amplitude Data](https://help.amplitude.com/hc/en-us/categories/5078631395227-Amplitude-Data-Beta-)
 - *Amplitude Academy*: [Getting Started with Amplitude Data (Course)](https://academy.amplitude.com/getting-started-with-amplitude-data)
+
